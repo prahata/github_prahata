@@ -16,27 +16,41 @@ You want to check target value : 5
 throw dice 1 times , have 1 ways to get 5
 
 4, 1,
+
 3, 2,
+
 2, 3,
-1, 4, 
+
+1, 4,
+
 
 throw dice 2 times , have 4 ways to get 5
 
-3, 1, 1, 
-2, 2, 1, 
-1, 3, 1, 
-2, 1, 2, 
-1, 2, 2, 
+3, 1, 1,
+
+2, 2, 1,
+
+1, 3, 1,
+
+2, 1, 2,
+
+1, 2, 2,
+
 1, 1, 3, 
 
 throw dice 3 times , have 6 ways to get 5
 
-2, 1, 1, 1, 
-1, 2, 1, 1, 
-1, 1, 2, 1, 
-1, 1, 1, 2, 
+2, 1, 1, 1,
+
+1, 2, 1, 1,
+
+1, 1, 2, 1,
+
+1, 1, 1, 2,
+
 
 throw dice 4 times , have 4 ways to get 5
+
 1, 1, 1, 1, 1, 
 
 throw dice 5 times , have 1 ways to get 5
