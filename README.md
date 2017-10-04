@@ -3,11 +3,18 @@
 1. compile SumDiceRoll.java 
 2. execute #java SumDiceRoll.class
 
-3. Result below
+3. please enter integer value , when prompt is show up
 
-
+Enter target nspace value to achieve by a single dice: 
 
 Enter target nspace value to achieve by a single dice: 5
+
+
+4. Result below
+
+
+
+
 
 You want to check target value : 5
 
