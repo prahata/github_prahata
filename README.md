@@ -22,10 +22,14 @@ int datarandom []={47,24,36,19,21,29,46,92,100,83,71,17,14,10,49};
 
 * Result
 
-depth 1 nodes :24,92
+depth 1 nodes :24,92 
+
 depth 2 nodes :19,36,83,100
+
 depth 3 nodes :17,21,29,46,71
+
 depth 4 nodes :14,49
+
 depth 5 nodes :10
 
 
