@@ -1,5 +1,41 @@
 # java-algo
 
+
+A. DepthOfBinaryRandomTree.java
+
+* Description
+This snippet code is intended to get Binary random three depth of an array of random numbers 
+
+* Steps 
+
+0. Change an array of integer in line 147, with another random number you will examine 
+
+in this example I use
+
+int datarandom []={47,24,36,19,21,29,46,92,100,83,71,17,14,10,49};
+
+1. compile DepthOfBinaryRandomTree.java 
+2. execute #java DepthOfBinaryRandomTree.class
+
+
+
+* Result
+
+depth 1 nodes :24,92
+depth 2 nodes :19,36,83,100
+depth 3 nodes :17,21,29,46,71
+depth 4 nodes :14,49
+depth 5 nodes :10
+
+
+
+B. SumDiceRoll.java 
+* Description
+
+This snippet code is intended to count the way of one dice 6 faces to get certain value  when it throwed
+
+* Steps 
+
 1. compile SumDiceRoll.java 
 2. execute #java SumDiceRoll.class
 
@@ -10,9 +46,7 @@ Enter target nspace value to achieve by a single dice:
 Enter target nspace value to achieve by a single dice: 5
 
 
-4. Result below
-
-
+* Result
 
 
 
