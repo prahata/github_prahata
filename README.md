@@ -5,15 +5,14 @@ A. DepthOfBinaryRandomTree.java
 
 * Description
 
-?ts=6 This snippet code is intended to get Binary random three depth of an array of random numbers 
+   This snippet code is intended to get Binary random three depth of an array of random numbers 
 
 * Steps 
 
 0. Change an array of integer in line 147, with another random number you will examine 
 
-?ts=6 in this example I use
-
-?ts=6 int datarandom []={47,24,36,19,21,29,46,92,100,83,71,17,14,10,49};
+   in this example I use
+   int datarandom []={47,24,36,19,21,29,46,92,100,83,71,17,14,10,49};
 
 1. compile DepthOfBinaryRandomTree.java 
 2. execute #java DepthOfBinaryRandomTree.class
