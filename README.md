@@ -56,14 +56,15 @@ This snippet code is intended to count the way of one dice 6 faces to get certai
 
 3. please enter integer value , when prompt is show up
 
-   Enter target nspace value to achieve by a single dice: 
-   <b/>
-   
-   <i>if we want ,check nspace 5 then </i>
+   <i> Enter target nspace value to achieve by a single dice: </i>
    
    <b/>
    
-   Enter target nspace value to achieve by a single dice: 5
+   if we want ,check nspace 5 then 
+   
+    <b/>
+   
+   <i> Enter target nspace value to achieve by a single dice: 5 </i>
 
 
 * Result
