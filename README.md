@@ -20,6 +20,9 @@ int datarandom []={47,24,36,19,21,29,46,92,100,83,71,17,14,10,49};
 
 
 
+<br />
+<br />
+
 * Result
 
 depth 1 nodes :24,92 
@@ -37,7 +40,8 @@ depth 5 nodes :10
 
 
 
-
+<br />
+<br />
 
 B. SumDiceRoll.java 
 * Description
