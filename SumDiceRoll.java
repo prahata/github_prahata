@@ -21,8 +21,7 @@ public class SumDiceRoll {
 
        // get their input as a String
         int nspaces = scanner.nextInt();
-        //System.out.println(username);
-        //int nspaces=10; 
+        
         System.out.println("You want to check target value : "+ nspaces +"\n\n");
         int totalways=0;
          for (int j=1;j<=nspaces;j++){
@@ -63,15 +62,14 @@ public class SumDiceRoll {
         }
  
        
-       // if (lookup[Nthrows][nspaces] != 0)
-        //    return lookup[Nthrows][nspaces];
+      
         
         for(int i=1; i<=6; i++){
            diceThrowsandmaxvaluesint[Nthrows-1] = i;
            
            temp_sum += sumNWayDice( diceThrowsandmaxvaluesint,Nthrows-1, nspaces-i);
         }
-         //lookup[Nthrows][nspaces] = temp_sum;
+         
         return temp_sum;
     }
 }
