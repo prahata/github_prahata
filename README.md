@@ -11,7 +11,8 @@ A. DepthOfBinaryRandomTree.java
 
 0. Change an array of integer in line 147, with another random number you will examine 
 
-   in this example I use
+   in this example I use ,
+   <br/>
    int datarandom []={47,24,36,19,21,29,46,92,100,83,71,17,14,10,49};
 
 1. compile DepthOfBinaryRandomTree.java 
