@@ -58,11 +58,11 @@ This snippet code is intended to count the way of one dice 6 faces to get certai
 
    <i> Enter target nspace value to achieve by a single dice: </i>
    
-   <b/>
+  
    
    if we want ,check nspace 5 then 
    
-    <b/>
+    
    
    <i> Enter target nspace value to achieve by a single dice: 5 </i>
 
