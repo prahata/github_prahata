@@ -13,7 +13,8 @@ A. DepthOfBinaryRandomTree.java
 
    in this example I use ,
    <br/>
-   int datarandom []={47,24,36,19,21,29,46,92,100,83,71,17,14,10,49};
+   
+   <i> int datarandom []={47,24,36,19,21,29,46,92,100,83,71,17,14,10,49};</i>
 
 1. compile DepthOfBinaryRandomTree.java 
 2. execute #java DepthOfBinaryRandomTree.class
@@ -57,8 +58,11 @@ This snippet code is intended to count the way of one dice 6 faces to get certai
 
    Enter target nspace value to achieve by a single dice: 
    <b/>
+   
    <i>if we want ,check nspace 5 then </i>
+   
    <b/>
+   
    Enter target nspace value to achieve by a single dice: 5
 
 
